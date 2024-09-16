@@ -74,3 +74,62 @@ Citation Request:
    12 - quality (score between 0 and 10)
 
 8. Missing Attribute Values: None
+
+
+### Dataset Features Description
+
+1. Fixed Acidity
+
+Determines the tartness and crispness of the wine. Higher acidity often means a more refreshing, crisp taste.
+White Wines: Generally preferred to be slightly higher for freshness and preservation.
+Red Wines: Balanced acidity is crucial for good structure and aging potential.
+
+2. Volatile Acidity
+
+Contributes to the wine’s aroma but in excess can lead to a vinegary smell, indicating spoilage.
+White Wines: Lower levels are preferred to avoid spoilage and maintain freshness.
+Red Wines: Can tolerate slightly higher levels, but excessive amounts are still undesirable.
+
+3. Citric Acid
+
+Adds a citrusy flavor and helps in preserving the wine. Can enhance freshness and balance.
+White Wines: Commonly used to boost freshness; higher levels are often more acceptable.
+Red Wines: Less common and used in smaller amounts, as red wines rely more on other acids for structure.
+
+4. Residual Sugar
+
+Determines the sweetness of the wine. Higher residual sugar results in sweeter wines.
+White Wines: Can vary widely (dry to sweet). Sweetness must match the style of the wine (e.g., dessert wines have high residual sugar).
+Red Wines: Usually drier, but sweeter styles exist (e.g., Port). Excessive sweetness can mask other flavors.
+
+5. Chlorides
+
+Impacts the wine's taste and mouthfeel. High chloride levels can lead to a salty or off taste.
+Both: Should be kept within normal ranges to avoid undesirable flavors and ensure quality.
+
+6. Total Sulfur Dioxide
+
+Acts as a preservative to prevent oxidation and spoilage. Can also impact the wine’s aroma and taste.
+White Wines: Generally limited to around 150 mg/L in EU. Essential for freshness and preventing spoilage.
+Red Wines: Can tolerate slightly higher levels (up to 250 mg/L) due to their composition and aging process.
+
+7. Density
+
+Reflects the wine’s alcohol content and sugar levels. Denser wines often have higher alcohol or sugar.
+Both: Density helps in assessing wine style and balance. Typical ranges are used to ensure consistency and quality.
+
+8. pH
+
+Influences the wine's stability, taste, and aging potential. Lower pH means higher acidity and more freshness.
+White Wines: Preferred pH is between 2.9 and 3.6 for crispness and preservation.
+Red Wines: Typically between 3.2 and 3.8, affecting structure and aging potential.
+
+9. Sulphates
+
+Adds to the wine’s flavor profile and preservation. Can impact mouthfeel and stability.
+Both: Should be balanced to enhance flavor without overpowering the wine.
+
+10. Alcohol
+
+Impacts the body, sweetness, and overall balance of the wine. Higher alcohol can lead to a fuller body and potentially sweeter taste.
+Both: Should align with the wine style. Excessive alcohol can overshadow other flavors, while too little can result in a thin wine.
