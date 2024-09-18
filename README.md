@@ -1,11 +1,9 @@
 # Wine-Quality
- Develop a Wine Quality Analytics System to assess and predict the quality of wines based on their chemical composition and attributes.
+ Target of this project is to develop a wine quality analytics system to assess and predict the quality of wines based on their chemical composition and attributes.
 
- 
-Citation Request:
+
   This dataset is public available for research. The details are described in [Cortez et al., 2009]. 
-  Please include this citation if you plan to use this database:
-
+  
   P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. 
   Modeling wine preferences by data mining from physicochemical properties.
   In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.
