@@ -1,5 +1,8 @@
 # Wine-Quality
- Target of this project is to develop a wine quality analytics system to assess and predict the quality of wines based on their chemical composition and attributes.
+
+ This project was part of my studies during a bootcamp at Code Academy Berlin, where I applied machine learning techniques to predict wine quality using various classification algorithms.
+
+ The project involved several steps, including data preprocessing, feature selection, model training, and evaluation. Key techniques used in the process included cleaning data, encoding categorical variables, scaling numerical features, and testing multiple machine learning models, such as Logistic Regression, k-Nearest Neighbors, Decision Trees, Random Forest, and Gradient Boosting. Hyperparameter tuning, cross-validation, and evaluation metrics like accuracy, precision, recall, and F1-score were used to assess model performance, with additional focus on models reaction to outliers. The goal was to find the best performing model to accurately predict wine quality based on various chemical features.
 
 
   This dataset is public available for research. The details are described in [Cortez et al., 2009]. 
