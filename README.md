@@ -2,10 +2,12 @@
 
  This project was part of my studies during a bootcamp at Code Academy Berlin, where I applied machine learning techniques to predict wine quality using various classification algorithms.
 
- The project involved several steps, including data preprocessing, feature selection, model training, and evaluation. Key techniques used in the process included cleaning data, encoding categorical variables, scaling numerical features, and testing multiple machine learning models, such as Logistic Regression, k-Nearest Neighbors, Decision Trees, Random Forest, and Gradient Boosting. Hyperparameter tuning, cross-validation, and evaluation metrics like accuracy, precision, recall, and F1-score were used to assess model performance, with additional focus on models reaction to outliers. The goal was to find the best performing model to accurately predict wine quality based on various chemical features.
+ It involves several steps, including data preprocessing, feature selection, model training, and evaluation. Key techniques used in the process included cleaning data, encoding categorical variables, scaling numerical features, and testing multiple machine learning models, hyperparameter tuning, cross-validation, and evaluation metrics like accuracy, precision, recall, and F1-score were used to assess model performance.
+
+ I will focus on white wines on this project and the goal is to find the best performing model to accurately predict wine quality based on various chemical features.
 
 
-  This dataset is public available for research. The details are described in [Cortez et al., 2009]. 
+  The dataset of this work is publicly available for research. The details are described in [Cortez et al., 2009]. 
   
   P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. 
   Modeling wine preferences by data mining from physicochemical properties.
